@@ -1,2 +1,7 @@
-*fix bug1
-change for file by teammmate for rebase for conflict
+
+
+
+1.'fix bug1'
+2.change for file by teammmate for rebase for conflict
+3.cr2 fix new line
+
