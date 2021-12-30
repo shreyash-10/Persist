@@ -1,1 +1,2 @@
-fix bug1
+*fix bug1
+change for file by teammmate for rebase for conflict
